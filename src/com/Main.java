@@ -6,4 +6,5 @@ package com;
 public class Main {
 
 
+    public void mm(){}
 }
